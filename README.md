@@ -7,7 +7,7 @@ This project focuses on analyzing New York City's expense budget to uncover oppo
 
 ### 1. **Final Term Project Presentation (PDF)**
    - **Description**: This PDF presentation provides a comprehensive overview of the project, including the business use case, data source details, the analytical framework, and key findings. It serves as a high-level summary of the project and is ideal for those looking to understand the project’s objectives and outcomes.
-   - **[View the Presentation](path-to-your-pdf-file)**
+   - **[View the Presentation](https://github.com/shijianfei1413/NYC-Budget-Expense-Analysis/blob/2eb3fcce7f20d373888353718ba4ca5974692f8a/Final%20Term%20Project%20Presentation.pdf)**
 
 ### 2. **Managing Data - Final Project (ZIP)**
    - **Description**: This ZIP file contains the full project materials, including datasets, code, and documentation related to the project. It covers the entire process from data extraction using the NYC Open Data API, to transformation and loading into PostgreSQL and MongoDB databases, and the development of a Flask-based API for data retrieval.
