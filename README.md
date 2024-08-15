@@ -11,7 +11,7 @@ This project focuses on analyzing New York City's expense budget to uncover oppo
 
 ### 2. **Managing Data - Final Project (ZIP)**
    - **Description**: This ZIP file contains the full project materials, including datasets, code, and documentation related to the project. It covers the entire process from data extraction using the NYC Open Data API, to transformation and loading into PostgreSQL and MongoDB databases, and the development of a Flask-based API for data retrieval.
-   - **[Download the Project Files](path-to-your-zip-file)**
+   - **[Download the Project Files](https://github.com/shijianfei1413/NYC-Budget-Expense-Analysis/blob/62fe0789236679296b9261b1aabfd46b56d34ccd/Managing%20Data%20-%20Final%20Project%20%202.zip)**
 
 ## Key Components
 
